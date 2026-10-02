@@ -1,0 +1,8 @@
+{
+  "name": "YENA Skincare ",
+  "description": "Artisanal luxury skincare atelier featuring clinical botanicals, restorative rituals, verified customer praise, and conscious formulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
